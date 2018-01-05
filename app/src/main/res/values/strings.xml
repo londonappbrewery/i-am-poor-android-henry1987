@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
-    <string name="i_am_poor">I Am Poor</string>
+    <string name="i_am_poor_1">I Am</string>
+    <string name="i_am_poor_2">Poor</string>
 </resources>
